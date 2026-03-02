@@ -2,7 +2,7 @@
 
 Senior Java Software Engineer, **5 years of experience**
 
-[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/) | [pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com) | [GitHub](https://github.com/Mikhail-Pashkevich)  
+[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/) | [Telegram](https://t.me/MikhailPashkevich) | [pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com) | [GitHub](https://github.com/Mikhail-Pashkevich)  
 
 ---
 
