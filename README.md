@@ -1,8 +1,8 @@
 ## [Mikhail Pashkevich](https://www.linkedin.com/in/mikhail-pashkevich/)
 
-[pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/)  
-[GitHub](https://github.com/Mikhail-Pashkevich)  
+Senior Java Software Engineer, **5 years of experience**
+
+[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/) | [pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com) | [GitHub](https://github.com/Mikhail-Pashkevich)  
 
 ---
 
@@ -24,17 +24,15 @@ TODO
 ## Experience
 
 ### [LaunchOptions](https://www.linkedin.com/company/launchopts/)
-**11/2023 – Present**
+**11/2023 – Present** 2+ years
 
-- Experienced as an acting lead (including daily meetings, task decomposition, and production releases)
-- Participated in the development of integrations with more than 10 systems (using Kafka, REST, MQ, and SOAP)
-- Migrated an application from Java 8 to Java 21
+- Experienced as an **acting teamlead** (including daily meetings, task decomposition, production releases)
+- Participated in the development of integrations with **more than 10 systems** (using Kafka, REST, MQ, and SOAP)
+- Migrated application from Java 8 to Java 21
 - Bug fixing, code reviews, unit testing, mentoring, documentation support
 
----
-
 ### [ISSOFT](https://www.linkedin.com/company/issoftsolutions/)
-**08/2021 – 11/2023**
+**08/2021 – 11/2023** 2.3 years
 
 ---
 
