@@ -2,13 +2,17 @@
 
 Senior Java Software Engineer, almost **5 years of experience**
 
-[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/) | [Telegram](https://t.me/MikhailPashkevich) | [pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com) | [GitHub](https://github.com/Mikhail-Pashkevich)  
+[LinkedIn](https://www.linkedin.com/in/mikhail-pashkevich/)
+| [Telegram](https://t.me/MikhailPashkevich)
+| [pashkevich.mikhail.job@gmail.com](mailto:pashkevich.mikhail.job@gmail.com)
+| [GitHub](https://github.com/Mikhail-Pashkevich)  
 
 ---
 
 ## About Me
 
-TODO
+Backend Java Engineer with almost **5 years** of commercial experience building scalable backend systems. Worked in teams ranging from 5 to 30 members, both remotely and on-site. Experienced as both a developer and an **acting team lead**.  
+Participated in and supported the full development lifecycle: from requirements clarification and system design to production releases and post-release monitoring. Strong focus on business requirements, performance optimization, clean architecture, and high code quality ensured through testing and thorough code reviews. Experienced in modernizing and improving legacy systems.
 
 ---
 
