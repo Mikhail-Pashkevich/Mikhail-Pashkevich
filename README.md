@@ -19,7 +19,7 @@ Participated in and supported the full development lifecycle: from requirements 
 ## Skills
 
 **Backend:** Java (8+), Spring Framework (Boot, Data JPA, Data JDBC, Security, AOP, Test), Hibernate  
-**Data Management:** SQL/NoSQL (PostgreSQL, MySQL, Redis, ElasticSearch), database migration tools (Flyway, Liquibase)  
+**Data Management:** SQL/NoSQL (PostgreSQL, MySQL, Redis), database migration tools (Flyway, Liquibase)  
 **Testing:** JUnit, Mockito, Testcontainers, Postman, Swagger, OpenAPI/AsyncAPI  
 **Other:** Kafka, AWS S3, MQ, Docker, Gradle, Maven  
 
