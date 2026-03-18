@@ -38,6 +38,10 @@ Participated in and supported the full development lifecycle: from requirements 
 ### [ISSOFT](https://www.linkedin.com/company/issoftsolutions/)
 **08/2021 – 11/2023** 2.3 years
 
+- Participated in decomposing the monolith into microservices
+- Refactored and migrated application from Java 8 to Java 17
+- Bug fixing, code reviews, unit testing
+
 ---
 
 ## Education
